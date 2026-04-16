@@ -5,6 +5,13 @@
 
 ---
 
+## 🚀 Live Dashboard
+👉 https://deval-primetradeai-assessment-round0.streamlit.app/
+
+> Includes sentiment analysis, individual trader explorer, and live strategy signal generator.
+
+---
+
 ## 🚀 Quick Summary
 
 | Metric | Value |
